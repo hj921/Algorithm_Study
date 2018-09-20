@@ -1,6 +1,8 @@
 # 알고리즘 스터디
 
-- 스터디 진행 중 공부하는 내용을 개인적으로 정리
+스터디 진행 중 공부하는 내용을 개인적으로 정리
+
+
 
 1. 코딩인터뷰 완전분석 - 게일 라크만 맥도웰
 
@@ -12,5 +14,5 @@
 
 3. LeetCode(https://leetcode.com/)
 
-- 
+- https://github.com/hj921/algorithm_study/tree/master/LeetCode
 - 알고리즘 문제 해결 생각 및 코드
