@@ -8,11 +8,11 @@
 
 
 
-2. 모두의 알고리즘 with 파이썬[https://github.com/hj921/algorithm_study/tree/master/%EB%AA%A8%EB%91%90%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC] - 이승찬 | 길벗
+2. [모두의 알고리즘 with 파이썬][https://github.com/hj921/algorithm_study/tree/master/%EB%AA%A8%EB%91%90%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC] - 이승찬 | 길벗
 
 
 
-3. LeetCode[https://github.com/hj921/algorithm_study/tree/master/LeetCode]
+3. [LeetCode][https://github.com/hj921/algorithm_study/tree/master/LeetCode]
 
 - https://leetcode.com/
 - 알고리즘 문제 해결 생각 및 코드
