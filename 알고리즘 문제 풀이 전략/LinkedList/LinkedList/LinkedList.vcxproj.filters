@@ -21,7 +21,10 @@
     <ClCompile Include="array_insert.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="singlylinkedlist_insert.cpp">
+    <ClCompile Include="doublylinkedlist.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="singlylinkedlist.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
