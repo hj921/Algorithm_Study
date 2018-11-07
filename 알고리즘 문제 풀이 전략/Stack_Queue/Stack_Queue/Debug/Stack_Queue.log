@@ -1,0 +1,3 @@
+﻿  Queue_withArray.cpp
+c:\users\user\documents\hj921\algorithm_study\알고리즘 문제 풀이 전략\stack_queue\stack_queue\queue_witharray.cpp(43): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Stack_Queue.vcxproj -> C:\Users\user\Documents\hj921\algorithm_study\알고리즘 문제 풀이 전략\Stack_Queue\Debug\Stack_Queue.exe
